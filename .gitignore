@@ -1,0 +1,6 @@
+.vscode
+/venv
+/dist
+/mkdocs_git_info_plugin.egg-info
+/build
+pypy*
